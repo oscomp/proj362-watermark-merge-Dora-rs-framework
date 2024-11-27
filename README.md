@@ -1,5 +1,5 @@
 # watermark-merge-Dora-rs-framework
-Merge watermark code from ERDOS to Dora-rs framework.
+合并代码到 Dora-rs 框架增强调度的确定性
 
 ## 项目描述
 
